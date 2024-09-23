@@ -1,3 +1,4 @@
+![Astral Sales Dashboard](https://github.com/manas74/Astral_sales_Dashboard/blob/main/Astral_project_img.jpg)
 # Astral Adhesive Sales Dashboard - Power BI Project
 
 ## Problem Statement:
